@@ -1,0 +1,10 @@
+10001 | John Smith | Sales | Gross: $50000.00 | Tax: $10250.00 | Net: $39750.00
+10002 | Emily Johnson | Marketing | Gross: $65000.00 | Tax: $14787.50 | Net: $50212.50
+10003 | Michael Williams | Engineering | Gross: $75000.00 | Tax: $18750.00 | Net: $56250.00
+10004 | Sarah Brown | Human Resources | Gross: $55000.00 | Tax: $11687.50 | Net: $43312.50
+10005 | David Miller | IT | Gross: $80000.00 | Tax: $21200.00 | Net: $58800.00
+
+===== PAYROLL SUMMARY =====
+Total Gross Payroll: $325000.00
+Total Tax Collected: $76675.00
+Total Net Payroll: $248325.00
