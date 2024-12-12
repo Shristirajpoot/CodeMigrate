@@ -15,14 +15,21 @@ The **COBOL-to-Python Converter** is a utility tool that converts COBOL source c
 
 ## Getting Started
 
-### Cloning the Repository
+### Prerequisites
 
-Clone this repository using the following command:
+- Python 3.7 or higher installed on your system. You can download it [here](https://www.python.org/downloads/).
+- Basic knowledge of running Python scripts via the command line.
 
-```bash
-git clone https://github.com/Cod-e-Codes/cobol-to-python.git
-cd cobol-to-python
-```
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Cod-e-Codes/cobol-to-python.git
+    cd cobol-to-python
+    ```
+
+2. No additional installations are required for this project.
 
 ### Usage
 
