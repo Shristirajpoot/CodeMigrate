@@ -1,6 +1,6 @@
-# COBOL-to-Python Converter
+# CodeMigrate Converter
 
-The **COBOL-to-Python Converter** is a utility tool that converts COBOL source code into Python. This tool aims to simplify the process of migrating legacy COBOL applications to modern Python-based systems, while also generating Python code that adheres to the functional structure of the original COBOL program.
+The **CodeMigrate Converter** is a utility tool that converts COBOL source code into Python. This tool aims to simplify the process of migrating legacy COBOL applications to modern Python-based systems, while also generating Python code that adheres to the functional structure of the original COBOL program.
 
 ---
 
@@ -25,7 +25,7 @@ The **COBOL-to-Python Converter** is a utility tool that converts COBOL source c
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Cod-e-Codes/cobol-to-python.git
+    git clone https://github.com/Shristirajpoot/CodeMigrate.git
     cd cobol-to-python
     ```
 
@@ -129,7 +129,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 **CodēCodes**  
-GitHub: [Cod-e-Codes](https://github.com/Cod-e-Codes)
+GitHub: [Shristirajpoot](https://github.com/Shristirajpoot)
 
 ---
 
